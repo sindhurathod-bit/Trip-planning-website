@@ -1,0 +1,31 @@
+
+/* Center the h1 header */
+h1 {
+  text-align:center;
+  font-size: 5rem;
+
+}
+body{
+      background-image: url('C:/Users/sindh/OneDrive/Desktop/New Trip/trip-project/searchbackround.jpg'); /* Replace with your image path */
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center center;
+    }
+
+.label{
+  display: block;
+  margin: 20px auto;
+  font-size: 2 rem;
+}
+.center-button {
+  display: block;
+  margin: 100px auto; /* centers horizontally and adds vertical space */
+  padding: 24px 48px; /* big size */
+  font-size: 2rem;    /* large font */
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}

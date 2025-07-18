@@ -1,0 +1,178 @@
+{
+  "Andhra Pradesh": {
+      "bestTime": "October to March",
+      "hotels": ["Taj Falaknuma Palace", "The Park Hyderabad", "Novotel Hyderabad Airport"],
+      "food": ["Hyderabadi Biryani", "Pesarattu", "Pootharekulu"],
+      "places": ["Charminar", "Tirupati Temple", "Araku Valley"]
+  },
+  "Arunachal Pradesh": {
+      "bestTime": "March to October",
+      "hotels": ["Itanagar Hotel", "Donyi Polo Ashok", "Ziro Valley Resorts"],
+      "food": ["Thukpa", "Momos", "Pork with Bamboo Shoot"],
+      "places": ["Tawang Monastery", "Ziro Valley", "Sela Pass"]
+  },
+  "Assam": {
+      "bestTime": "October to March",
+      "hotels": ["The Gateway Hotel", "Radisson Blu Guwahati", "Vivanta Guwahati"],
+      "food": ["Assam Laksa", "Pithas", "Masor Tenga"],
+      "places": ["Kaziranga National Park", "Kamakhya Temple", "Majuli Island"]
+  },
+  "Bihar": {
+      "bestTime": "October to March",
+      "hotels": ["Patna Hotel", "Chanakya BNR Hotel", "Maitri Hotel"],
+      "food": ["Litti Chokha", "Chana Ghugni", "Thekua"],
+      "places": ["Bodh Gaya", "Nalanda University", "Mahabodhi Temple"]
+  },
+  "Chhattisgarh": {
+      "bestTime": "October to March",
+      "hotels": ["Courtyard by Marriott Raipur", "The Celebration Hotel", "Hotel Babylon International"],
+      "food": ["Chana Samosa", "Fara", "Chhattisgarhi Thali"],
+      "places": ["Chitrakote Falls", "Barnawapara Wildlife Sanctuary", "Bhoramdeo Temple"]
+  },
+  "Delhi": {
+  "bestTime": "October to March",
+  "hotels": ["The Imperial", "Taj Palace", "Le Meridien", "The Lodhi"],
+  "food": ["Chole Bhature", "Butter Chicken", "Parathas", "Kebabs"],
+  "places": ["Red Fort", "Qutub Minar", "India Gate", "Lotus Temple", "Humayun’s Tomb"]
+},
+
+  "Goa":{
+      "bestTime": "November to March",
+      "hotels": ["Taj Exotica", "The Leela Goa", "Grand Hyatt Goa"],
+      "food": ["Goan Fish Curry", "Prawn Balchao", "Vindaloo"],
+      "places": ["Baga Beach", "Basilica of Bom Jesus", "Dudhsagar Falls"]
+  },
+
+  "Gujarat": {
+      "bestTime": "November to February",
+      "hotels": ["The Lalit Golf & Resort", "Taj Gateway Surat", "Radisson Blu Hotel Ahmedabad"],
+      "food": ["Dhokla", "Khandvi", "Undhiyu"],
+      "places": ["Somnath Temple", "Rann of Kutch", "Gir National Park"]
+  },
+  "Haryana": {
+      "bestTime": "October to March",
+      "hotels": ["The Oberoi Gurgaon", "Lemon Tree Premier", "ITC Grand Bharat"],
+      "food": ["Haryanvi Kachri", "Kadhi Pakora", "Bajra Aloo Roti"],
+      "places": ["Kingdom of Dreams", "Kurukshetra", "Sultanpur Bird Sanctuary"]
+  },
+  "Himachal Pradesh": {
+      "bestTime": "March to June, September to December",
+      "hotels": ["Wildflower Hall", "The Oberoi Cecil", "Taj Theog Resort & Spa"],
+      "food": ["Chana Madra", "Dham", "Siddu"],
+      "places": ["Shimla", "Manali", "Spiti Valley"]
+  },
+  "Jharkhand": {
+      "bestTime": "October to March",
+      "hotels": ["Radisson Blu Ranchi", "Hotel BNR Chanakya", "The Royal Retreat"],
+      "food": ["Litti Chokha", "Ranchi Mutton Curry", "Sattu Paratha"],
+      "places": ["Netarhat", "Betla National Park", "Hundru Falls"]
+  },
+  "Karnataka": {
+      "bestTime": "October to April",
+      "hotels": ["The Leela Palace Bengaluru", "Taj West End", "ITC Gardenia"],
+      "food": ["Bisi Bele Bath", "Mysore Pak", "Ragi Mudde"],
+      "places": ["Hampi", "Mysore Palace", "Coorg"]
+  },
+  "Kerala": {
+      "bestTime": "September to March",
+      "hotels": ["The Zuri Kumarakom", "Taj Green Cove", "Brunton Boatyard"],
+      "food": ["Appam with Stew", "Puttu and Kadala Curry", "Fish Moilee"],
+      "places": ["Alleppey", "Munnar", "Wayanad"]
+  },
+  "Madhya Pradesh": {
+      "bestTime": "October to March",
+      "hotels": ["Jehan Numa Palace", "Noor-Us-Sabah Palace", "Radisson Jabalpur"],
+      "food": ["Poha", "Bhutte ka Kees", "Seekh Kebabs"],
+      "places": ["Khajuraho", "Kanha National Park", "Sanchi Stupa"]
+  },
+  "Maharashtra": {
+      "bestTime": "October to March",
+      "hotels": ["Taj Mahal Palace", "Trident Nariman Point", "The Oberoi Mumbai"],
+      "food": ["Vada Pav", "Pav Bhaji", "Misal Pav"],
+      "places": ["Ajanta and Ellora Caves", "Gateway of India", "Shirdi"]
+  },
+  "Manipur": {
+      "bestTime": "October to March",
+      "hotels": ["Classic Grande", "Hotel Imphal", "The Sangai Continental"],
+      "food": ["Eromba", "Chamthong", "Nga Thongba"],
+      "places": ["Loktak Lake", "Kangla Fort", "Imphal War Cemetery"]
+  },
+  "Meghalaya": {
+      "bestTime": "October to June",
+      "hotels": ["Hotel Polo Towers", "Ri Kynjai", "Cafe Shillong BnB"],
+      "food": ["Jadoh", "Dohneiiong", "Tungrymbai"],
+      "places": ["Shillong", "Cherrapunji", "Living Root Bridges"]
+  },
+  "Mizoram": {
+      "bestTime": "October to March",
+      "hotels": ["Hotel Regency", "Hotel Floria", "Hotel Ritz"],
+      "food": ["Bai", "Sawhchiar", "Arsa Buhchiar"],
+      "places": ["Aizawl", "Reiek", "Phawngpui"]
+  },
+  "Nagaland": {
+      "bestTime": "October to May",
+      "hotels": ["Hotel Japfu", "The Heritage", "Hotel Saramati"],
+      "food": ["Smoked Pork", "Bamboo Shoot Curry", "Akini Chokibo"],
+      "places": ["Kohima", "Dzükou Valley", "Mokokchung"]
+  },
+  "Odisha": {
+      "bestTime": "October to March",
+      "hotels": ["Mayfair Lagoon", "Swosti Premium", "Hotel Grand Central"],
+      "food": ["Dahi Pakhala", "Chhena Poda", "Dalma"],
+      "places": ["Konark Sun Temple", "Jagannath Temple", "Chilika Lake"]
+  },
+  "Punjab": {
+      "bestTime": "October to March",
+      "hotels": ["Hyatt Regency Amritsar", "Radisson Blu Ludhiana", "Taj Swarna Amritsar"],
+      "food": ["Butter Chicken", "Amritsari Kulcha", "Makki di Roti & Sarson da Saag"],
+      "places": ["Golden Temple", "Wagah Border", "Jallianwala Bagh"]
+  },
+  "Rajasthan": {
+      "bestTime": "October to March",
+      "hotels": ["Taj Lake Palace", "Umaid Bhawan Palace", "The Leela Palace Jaipur"],
+      "food": ["Dal Baati Churma", "Gatte ki Sabzi", "Laal Maas"],
+      "places": ["Jaipur", "Udaipur", "Jaisalmer Fort"]
+  },
+  "Sikkim": {
+      "bestTime": "March to June, September to December",
+      "hotels": ["Mayfair Spa Resort", "The Elgin Nor-Khill", "Summit Norling Resort"],
+      "food": ["Phagshapa", "Thukpa", "Sel Roti"],
+      "places": ["Gangtok", "Tsomgo Lake", "Nathula Pass"]
+  },
+  "Tamil Nadu": {
+      "bestTime": "November to March",
+      "hotels": ["Taj Coromandel", "The Leela Palace Chennai", "ITC Grand Chola"],
+      "food": ["Dosa", "Chettinad Chicken", "Pongal"],
+      "places": ["Madurai Meenakshi Temple", "Ooty", "Rameswaram"]
+  },
+  "Telangana": {
+      "bestTime": "October to March",
+      "hotels": ["ITC Kakatiya", "Taj Krishna", "Novotel Hyderabad"],
+      "food": ["Hyderabadi Biryani", "Qubani ka Meetha", "Mirchi ka Salan"],
+      "places": ["Charminar", "Golconda Fort", "Ramoji Film City"]
+  },
+  "Tripura": {
+      "bestTime": "October to March",
+      "hotels": ["Hotel Sonar Tori", "Ginger Agartala", "Hotel City Centre"],
+      "food": ["Mui Borok", "Bamboo Shoot Curry", "Chuak"],
+      "places": ["Ujjayanta Palace", "Neermahal", "Tripura Sundari Temple"]
+  },
+  "Uttar Pradesh": {
+      "bestTime": "October to March",
+      "hotels": ["The Oberoi Amarvilas", "ITC Mughal", "Taj Hotel Lucknow"],
+      "food": ["Tunday Kababi", "Bedmi Poori", "Galouti Kebab"],
+      "places": ["Taj Mahal", "Varanasi Ghats", "Fatehpur Sikri"]
+  },
+  "Uttarakhand": {
+      "bestTime": "March to June, September to November",
+      "hotels": ["The Claridges Nabha Residence", "Ananda in the Himalayas", "JW Marriott Mussoorie"],
+      "food": ["Aloo Ke Gutke", "Kafuli", "Bal Mithai"],
+      "places": ["Rishikesh", "Nainital", "Kedarnath"]
+  },
+  "West Bengal": {
+      "bestTime": "October to March",
+      "hotels": ["The Oberoi Grand", "ITC Sonar", "Taj Bengal"],
+      "food": ["Shorshe Ilish", "Macher Jhol", "Sandesh"],
+      "places": ["Sundarbans", "Darjeeling", "Victoria Memorial"]
+  }
+}
